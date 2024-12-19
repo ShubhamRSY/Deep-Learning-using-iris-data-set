@@ -63,7 +63,3 @@ This repository demonstrates the core deep learning model-building concepts usin
 
 ---
 
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Deep-Learning-Example-Iris.git
